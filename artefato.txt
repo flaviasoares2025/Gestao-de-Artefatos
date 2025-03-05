@@ -1,0 +1,1 @@
+Este é um artefato de exemplo para a prática de gestão de configuração.
